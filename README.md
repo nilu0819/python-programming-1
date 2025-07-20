@@ -33,3 +33,8 @@ plt.xlabel('User ID')
 plt.ylabel('Post Count')
 plt.show()
 
+#barchart
+
+<img width="920" height="585" alt="task1" src="https://github.com/user-attachments/assets/c4aa0eb8-10d3-41e6-a8d5-c402f7131de0" />
+<img width="920" height="585" alt="Screenshot 2025-07-06 161053" src="https://github.com/user-attachments/assets/baf8f847-7858-4d53-a1e0-a41c9ee3cf2f" />
+
